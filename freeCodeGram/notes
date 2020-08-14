@@ -1,0 +1,6 @@
+#Authentication Quickstart
+composer require laravel/ui
+php artisan ui vue --auth
+#This command should be used on fresh applications and will install a layout view,
+#registration and login views, as well as routes for all authentication end-points.
+#https://laravel.com/docs/7.x/authentication
